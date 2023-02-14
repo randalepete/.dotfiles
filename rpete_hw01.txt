@@ -1,0 +1,23 @@
+rpete@cocsce-l1d43-03:~$ mkdir .dotfiles
+rpete@cocsce-l1d43-03:~$ ls
+ csce215            Downloads   osx        rpete_hw01.txt       Videos
+ Desktop            lab00.pdf   Pictures   rpete_lab03
+'d'$'\177''expot'   lab01.md    Public     rpete_lab03.tar.gz
+ Documents          Music       R          Templates
+rpete@cocsce-l1d43-03:~$ cd .dotfiles
+rpete@cocsce-l1d43-03:~/.dotfiles$ cat 
+  
+rpete@cocsce-l1d43-03:~$ cd .dotfiles
+rpete@cocsce-l1d43-03:~/.dotfiles$ pwd 
+/acct/rpete/.dotfiles
+rpete@cocsce-l1d43-03:~/.dotfiles$ touch README.md
+rpete@cocsce-l1d43-03:~/.dotfiles$ cd  README.md
+<Rightrpete@cocsce-l1d43-03:~/.dotfiles$ vim README.md
+to save and exit vim after putting in text I did :wq
+rpete@cocsce-l1d43-03:~/.dotfiles$ cat README.md
+# My Dotfiles
+## .vimrc
+## .bashrc
+rpete@cocsce-l1d43-03:~$ cp ~/.vimrc ~/.dotfiles
+
+

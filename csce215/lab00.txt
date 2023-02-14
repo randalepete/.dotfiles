@@ -1,0 +1,10 @@
+cocsce-l1d43-34
+rpete
+shell --It is a location or adress described by directories seperated by slashes
+directory-- a file folder
+file -- it is the ASCII text
+root or /
+pwd
+home or ~ or /acct/username
+cd
+ls

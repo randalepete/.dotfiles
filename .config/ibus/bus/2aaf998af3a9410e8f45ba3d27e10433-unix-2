@@ -1,0 +1,7 @@
+# This file is created by ibus-daemon, please do not modify it.
+# This file allows processes on the machine to find the
+# ibus session bus with the below address.
+# If the IBUS_ADDRESS environment variable is set, it will
+# be used rather than this file.
+IBUS_ADDRESS=unix:abstract=/acct/rpete/.cache/ibus/dbus-sQxhTVNf,guid=018fbcf4cb7cb65aab4cba7d63e53a63
+IBUS_DAEMON_PID=158060

@@ -1,0 +1,14 @@
+rpete@cocsce-l1d43-21:~$ bash script.sh
+cocsce-l1d43-21
+rpete
+Hello World
+/acct/rpete
+dirA:
+fileA
+
+dirB:
+fileB
+
+dirC:
+fileC
+

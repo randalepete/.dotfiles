@@ -1,0 +1,13 @@
+1) Cat is used to print the entire contents of a file to the terminal.
+2) The tail command gets you to the top lines of the file.
+3) Once you are in vim you use the view command to open the file in a read only manner.
+4) You type i to switch to insert mode to start editing the file. Then enter the text to modify it. After that press the esc key to get out of insert mode and back to command mode. Then type wq to save and exit the file
+5) esc button moves you from editing mode into  normal mode.
+6) To save a file you type w then enter to save the file.
+7) After the w you press q and enter like wq to save and quit.
+8)To save without exit is pressing the esc key to switch to command mode then colon then type q!
+9)To serch for the varable press :/counter
+10) Press esc key. Then press colon. Then type x after the colon and hit enter.
+
+
+
